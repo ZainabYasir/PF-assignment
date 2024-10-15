@@ -35,5 +35,5 @@ cout<<"Invalid operator";
 
 
 }
-
+return 0;
 }
